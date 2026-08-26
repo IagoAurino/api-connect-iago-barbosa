@@ -56,4 +56,4 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
 ### 5. Remover Usuário (DELETE)
 * **Rota:** `/api/usuarios/:id`
 * **Descrição:** Apaga o usuário correspondente ao ID informado.
-* **Retorno de Sucesso:** `200 OK`gi
+* **Retorno de Sucesso:** `200 OK`

@@ -34,7 +34,7 @@ Para rodar este projeto na sua máquina, siga os passos abaixo:
     "email": "iago@teste.com",
     "cargo": "Desenvolvedor"
   }
-
+  ```
 * **Retorno de Sucesso:** `201 Created`
 
 ### 2. Listar Usuários (GET)
